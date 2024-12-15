@@ -63,7 +63,7 @@ const handleAnswer = (points) => {
 }
   
   setTimeout(() => {
-  router.push('/trivia-app/')
+  router.push('/homework6/')
   }, 1000)
 }
 
